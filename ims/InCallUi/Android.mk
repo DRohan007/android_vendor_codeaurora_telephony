@@ -8,6 +8,8 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_PACKAGE_NAME := qtiImsInCallUi
 
+LOCAL_SDK_VERSION := current
+
 LOCAL_CERTIFICATE := platform
 
 LOCAL_MODULE_OWNER := qti
